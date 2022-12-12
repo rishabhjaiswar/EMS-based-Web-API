@@ -1,7 +1,7 @@
 # EMS-based-Web-API
- <h4>     Employee management system is a part of an Office Management System.
-Complete project had 8 systems including the employee management system.</h4>
- <h4> Following are the main components of the employee management system :</h4>
+ <b>     Employee management system is a part of an Office Management System.
+Complete project had 8 systems including the employee management system.</b>
+ <B> Following are the main components of the employee management system :</b>
 <ul type=" bullet "><li>Add Employee and Remove   Employee</li> 
 <li>Check Employee Profile </li>
 <li>Payroll system </li>
